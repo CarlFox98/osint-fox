@@ -189,7 +189,7 @@ td {{ padding:4px 10px; border:1px solid {border}; }}
 td:first-child {{ font-weight:bold; width:220px; color:{accent}; }}
 .footer {{ margin-top:30px; color:#888; font-size:12px; text-align:center; }}
 </style></head><body>
-<h1>OSINT FOX &mdash; Intelligence Report</h1>
+<h1>OSINT FOX: Intelligence Report</h1>
 <p><strong>Target:</strong> {target or "N/A"}<br>
 <strong>Generated:</strong> {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
 """
