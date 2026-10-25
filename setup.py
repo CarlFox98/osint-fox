@@ -5,7 +5,7 @@ setup(
     version="1.2.0",
     description="OSINT FOX - Open Source Intelligence Tool with GUI",
     author="OSINT FOX",
-    url="https://github.com/NeotericGamer98/osint-fox",
+    url="https://github.com/CarlFox98/osint-fox",
     packages=find_packages(),
     install_requires=[
         "customtkinter>=5.2.0",
