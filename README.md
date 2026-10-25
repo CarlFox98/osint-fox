@@ -1,6 +1,6 @@
 # OSINT FOX 🦊
 
-**Open Source Intelligence Tool v1.1** — A sleek GUI application for gathering publicly available information about targets using handles, email addresses, phone numbers, domains, images, and more.
+**Open Source Intelligence Tool v1.2** — A sleek GUI application for gathering publicly available information about targets using handles, email addresses, phone numbers, domains, images, and more.
 
 ## Features
 
@@ -33,13 +33,15 @@
 
 ## Installation
 
+Requires Python 3.10 or newer. From the repo folder:
+
 ```bash
-pip install -r requirements.txt
+pip install .
 ```
 
-Optional enhancements:
+Optional extras (WHOIS lookups and time zones):
 ```bash
-pip install python-whois pytz phonenumbers
+pip install ".[full]"
 ```
 
 ## Usage
