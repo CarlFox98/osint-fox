@@ -1,6 +1,6 @@
 # OSINT FOX 🦊
 
-**Open Source Intelligence Tool v1.2** — A sleek GUI application for gathering publicly available information about targets using handles, email addresses, phone numbers, domains, images, and more.
+**Open Source Intelligence Tool v1.2**: a sleek GUI application for gathering publicly available information about targets using handles, email addresses, phone numbers, domains, images, and more.
 
 ## Features
 
@@ -18,9 +18,9 @@
 
 ### Interface
 - **Dark/Light theme toggle** 🌓
-- **Tabbed scan sessions** — Run multiple scans, compare results
-- **Session save/load** — Save and reload `.osint` session files
-- **Plugin system** — Auto-detect modules in `modules/plugins/`
+- **Tabbed scan sessions**: Run multiple scans, compare results
+- **Session save/load**: Save and reload `.osint` session files
+- **Plugin system**: Auto-detect modules in `modules/plugins/`
 
 ### Export
 5 formats: **PDF**, **TXT**, **CSV**, **JSON**, **HTML**
